@@ -1,0 +1,64 @@
+Task 2
+Python Tasks and Expected Outputs 
+
+Upload .py or Ipynb extension file on github public repo “100DaysofBytewise" and share the link in the submission form by 
+12 June 2024
+
+1. Palindrome Checker (Word)
+
+• Write a program to check if a given word is a palindrome (reads the same forwards and backwards).
+• Expected output: If the input is "racecar", the output should be "racecar is a palindrome." If the input is "Python", the output should be "Python is not a palindrome.”
+
+2. FizzBuzz
+   - Write a program that prints the numbers from 1 to 100. For multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz". For numbers that are multiples of both 3 and 5, print "FizzBuzz".
+   - Expected output:
+     1
+     2
+     Fizz
+     4
+     Buzz
+     Fizz
+     7
+     8
+     Fizz
+     Buzz
+     11
+     Fizz
+     13
+     14
+     FizzBuzz
+
+3. Nth Fibonacci Number
+
+• Write a program to find the nth Fibonacci number.
+• Expected output: If the input is 10, the output should be "The 10th Fibonacci number is 55.”
+
+4. Prime Number Checker
+   - Write a program to check if a given number is prime.
+   - Expected output: If the input is 7, the output should be "7 is a prime number." If the input is 10, the output should be "10 is not a prime number."
+
+5. Guess the Number Game
+   - Write a program where the computer generates a random number, and the user has to guess it.
+   - Expected output: The program should prompt the user to enter a guess and provide feedback on whether the guess is too high, too low, or correct.
+
+6. List Comprehension
+   - Write a program that uses list comprehension to create a list of squares of the first 10 integers.
+   - Expected output: `[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]`
+
+7. Palindrome Sentences
+   - Write a program to check if a given sentence is a palindrome (reads the same forwards and backwards, ignoring spaces and punctuation).
+   - Expected output: If the input is "A man, a plan, a canal: Panama", the output should be "A man, a plan, a canal: Panama is a palindrome." If the input is "Hello, world!", the output should be "Hello, world! is not a palindrome."
+
+8. Anagram Checker
+   - Write a program to check if two strings are anagrams (contain the same characters in a different order).
+   - Expected output: If the two strings are "listen" and "silent", the output should be "listen and silent are anagrams." If the two strings are "python" and "java", the output should be "python and java are not anagrams."
+
+9. Reverse Words in a Sentence
+   - Write a program to reverse the order of words in a given sentence.
+   - Expected output: If the input sentence is "The quick brown fox jumps over the lazy dog.", the output should be "dog. lazy the over jumps fox brown quick The"
+
+10. Temperature Converter
+    - Write a program that can convert temperatures between Celsius, Fahrenheit, and Kelvin.
+    - Expected output: If the input is 20 degrees Celsius, the output should be "20 degrees Celsius is equal to 68 degrees Fahrenheit and 293.15 degrees Kelvin."
+
+These exercises cover more advanced Python concepts like conditional logic, loops, functions, data structures, and algorithmic thinking. They are designed to challenge intermediate-level students and help them develop more complex problem-solving skills.

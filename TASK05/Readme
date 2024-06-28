@@ -1,7 +1,8 @@
 Task 5
 Machine Learning
 Upload .py or Ipynb extension file on GitHub public repo “100DaysofBytewise" and share the link in the submission form by 24 June 2024.
-Implement a linear regression model to predict housing prices based on a given dataset.
+
+TASK01: Implement a linear regression model to predict housing prices based on a given dataset.
 Expected Output:
 a)Load a dataset the Boston Housing dataset.
 b)Train a linear regression model.
@@ -9,7 +10,7 @@ c)Print the model's coefficients and intercept.
 d)Predict housing prices on a test set and print the mean squared error.
 e)Visualize the regression line and data points.
 
-Build a decision tree classifier to classify iris flower species.
+TASK02: Build a decision tree classifier to classify iris flower species.
 Expected Output:
 a)Load the Iris dataset.
 b)Train a decision tree classifier.

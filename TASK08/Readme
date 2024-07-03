@@ -1,0 +1,12 @@
+Task 8
+Machine Learning
+Task01: Calculate the mean, median, and mode of the sepal lengths in the Iris dataset.
+Task02: Calculate the variance and standard deviation of the petal widths in the Iris dataset.
+Task03: Create a summary table that includes the mean, median, variance, and standard deviation for all numerical features in the dataset.
+Task04: Define a random variable for the sepal length and calculate the probability distribution of sepal lengths.
+Task05: Plot the probability distribution of sepal lengths using a histogram.
+Task06: Calculate the cumulative distribution function (CDF) for the petal lengths and plot it.
+Task07: Calculate and plot the probability density function (PDF) for sepal width.
+Task08: Determine the probability of a randomly selected iris flower having a petal length greater than a given value.
+Task09: Perform a hypothesis test to determine if there is a significant difference in the mean petal length between two species of iris flowers.
+Task10: Calculate and interpret the covariance and correlation between sepal length and sepal width.

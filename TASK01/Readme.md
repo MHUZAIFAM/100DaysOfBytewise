@@ -89,7 +89,7 @@ Task: Write a program that counts the number of vowels in a given string.
 *The number of vowels is: 4*
 
 
-## Exercise : Fibonacci Sequence
+## Exercise08: Fibonacci Sequence
 Task: Write a program to print the Fibonacci sequence up to n terms.
 
 ***Expected Output:***
@@ -99,7 +99,7 @@ Task: Write a program to print the Fibonacci sequence up to n terms.
 *0 1 1 2 3*
 
 
-## Exercise: Check for Palindrome
+## Exercise09: Check for Palindrome
 Task: Write a program to check if a given string is a palindrome.
 
 ***Expected Output:***

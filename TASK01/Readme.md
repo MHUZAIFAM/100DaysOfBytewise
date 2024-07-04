@@ -1,9 +1,5 @@
-Task 1
-Python Tasks and Expected Outputs 
-
-Upload .py or Ipynb extension file on github public repo “100DaysofBytewise" and share the link in the submission form by 
-11 June 2024
-
+## Task 1
+## Python Tasks and Expected Outputs 
 
 Exercise: Sum of Two Numbers
 Task: Write a program that takes two numbers from the user and prints their sum.

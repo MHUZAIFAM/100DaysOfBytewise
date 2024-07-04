@@ -26,7 +26,7 @@ Task: Write a program to calculate the area of a circle given its radius.
 *The area of the circle is: 78.53981633974483*
 
 
-## **Exercise: Even or Odd**
+## **Exercise03 : Even or Odd**
 
 Task: Write a program that checks if a number is even or odd.
 
@@ -37,7 +37,7 @@ Task: Write a program that checks if a number is even or odd.
 *7 is odd*
 
 
-## **Exercise: Simple Calculator**
+## **Exercise04: Simple Calculator**
 
 Task: Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
@@ -52,7 +52,7 @@ Task: Write a program that performs basic arithmetic operations (addition, subtr
 *The result is: 3.3333333333333335*
 
 
-## **Exercise: Find the Largest Number**
+## **Exercise05: Find the Largest Number**
 
 Task:Write a program to find the largest of three numbers.
 
@@ -67,7 +67,7 @@ Task:Write a program to find the largest of three numbers.
 *The largest number is: 15*
 
 
-## *Exercise: Reverse a String
+## Exercise06: Reverse a String
 
 Task: Write a program that takes a string from the user and prints it in reverse.
 
@@ -78,24 +78,30 @@ Task: Write a program that takes a string from the user and prints it in reverse
 *The reversed string is: olleh*
 
 
-## Exercise: Count Vowels
+## Exercise07: Count Vowels
+
 Task: Write a program that counts the number of vowels in a given string.
 
-Expected Output:
-Enter a string: Nimra Waqar
-The number of vowels is: 4
+***Expected Output:***
 
-Exercise : Fibonacci Sequence
+*Enter a string: Nimra Waqar*
+
+*The number of vowels is: 4*
+
+
+## Exercise : Fibonacci Sequence
 Task: Write a program to print the Fibonacci sequence up to n terms.
 
-Expected Output:
-How many terms? 5
-Fibonacci sequence:
-0 1 1 2 3 
+***Expected Output:***
 
-Exercise: Check for Palindrome
+*How many terms? 5*
+*Fibonacci sequence:*
+*0 1 1 2 3*
+
+
+## Exercise: Check for Palindrome
 Task: Write a program to check if a given string is a palindrome.
 
-Expected Output:
-Enter a string: radar
-radar is a palindrome
+***Expected Output:***
+*Enter a string: radar*
+*radar is a palindrome*

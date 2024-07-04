@@ -1,7 +1,7 @@
-## Task 01
-## Python Tasks and Expected Outputs 
+# Task 01
+# Python Tasks and Expected Outputs 
 
-# **Exercise01:** Sum of Two Numbers
+## **Exercise01:** Sum of Two Numbers
 
 Task: Write a program that takes two numbers from the user and prints their sum.
 
@@ -15,7 +15,7 @@ Task: Write a program that takes two numbers from the user and prints their sum.
 *The sum is: 7.0*
 
 
-# **Exercise02:** Area of a Circle
+## **Exercise02:** Area of a Circle
 
 Task: Write a program to calculate the area of a circle given its radius.
 
@@ -26,7 +26,7 @@ Task: Write a program to calculate the area of a circle given its radius.
 *The area of the circle is: 78.53981633974483*
 
 
-# ***Exercise: Even or Odd***
+## **Exercise: Even or Odd**
 
 Task: Write a program that checks if a number is even or odd.
 
@@ -37,7 +37,7 @@ Task: Write a program that checks if a number is even or odd.
 *7 is odd*
 
 
-***Exercise: Simple Calculator***
+## **Exercise: Simple Calculator**
 
 Task: Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
@@ -52,24 +52,33 @@ Task: Write a program that performs basic arithmetic operations (addition, subtr
 *The result is: 3.3333333333333335*
 
 
-***Exercise: Find the Largest Number***
+## **Exercise: Find the Largest Number**
 
 Task:Write a program to find the largest of three numbers.
 
-***Expected Output:
-Enter first number: 7
-Enter second number: 15
-Enter third number: 10
-The largest number is: 15
+***Expected Output:***
 
-Exercise: Reverse a String
+*Enter first number: 7*
+
+*Enter second number: 15*
+
+*Enter third number: 10*
+
+*The largest number is: 15*
+
+
+## *Exercise: Reverse a String
+
 Task: Write a program that takes a string from the user and prints it in reverse.
 
-Expected Output:
-Enter a string: hello
-The reversed string is: olleh
+***Expected Output:***
 
-Exercise: Count Vowels
+*Enter a string: hello*
+
+*The reversed string is: olleh*
+
+
+## Exercise: Count Vowels
 Task: Write a program that counts the number of vowels in a given string.
 
 Expected Output:

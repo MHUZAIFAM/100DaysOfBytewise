@@ -1,20 +1,20 @@
-## Task 1
+## Task 01
 ## Python Tasks and Expected Outputs 
 
-Exercise: Sum of Two Numbers
+**Exercise01:** Sum of Two Numbers
 Task: Write a program that takes two numbers from the user and prints their sum.
 
-Expected Output:
+***Expected Output***:
 Enter first number: 3
 Enter second number: 4
-The sum is: 7.0
+The sum is: 7.0*
 
-Exercise : Area of a Circle
+**Exercise02:** Area of a Circle
 Task: Write a program to calculate the area of a circle given its radius.
 
-Expected Output:
-Enter the radius of the circle: 5
-The area of the circle is: 78.53981633974483
+***Expected Output:***
+*Enter the radius of the circle: 5
+The area of the circle is: 78.53981633974483*
 
 Exercise: Even or Odd
 Task: Write a program that checks if a number is even or odd.

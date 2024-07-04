@@ -1,7 +1,8 @@
 ## Task 01
 ## Python Tasks and Expected Outputs 
 
-**Exercise01:** Sum of Two Numbers
+# **Exercise01:** Sum of Two Numbers
+
 Task: Write a program that takes two numbers from the user and prints their sum.
 
 
@@ -13,33 +14,49 @@ Task: Write a program that takes two numbers from the user and prints their sum.
 
 *The sum is: 7.0*
 
-**Exercise02:** Area of a Circle
+
+# **Exercise02:** Area of a Circle
+
 Task: Write a program to calculate the area of a circle given its radius.
 
 ***Expected Output:***
-*Enter the radius of the circle: 5
-The area of the circle is: 78.53981633974483*
 
-Exercise: Even or Odd
+*Enter the radius of the circle: 5*
+
+*The area of the circle is: 78.53981633974483*
+
+
+# ***Exercise: Even or Odd***
+
 Task: Write a program that checks if a number is even or odd.
 
-Expected Output:
-Enter a number: 7
-7 is odd
+***Expected Output:***
 
-Exercise: Simple Calculator
+*Enter a number: 7*
+
+*7 is odd*
+
+
+***Exercise: Simple Calculator***
+
 Task: Write a program that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
 
-Expected Output:
-Enter first number: 10
-Enter second number: 3
-Enter operation (+, -, *, /): /
-The result is: 3.3333333333333335
+***Expected Output:***
 
-Exercise: Find the Largest Number
+*Enter first number: 10*
+
+*Enter second number: 3*
+
+*Enter operation (+, -, *, /): /*
+
+*The result is: 3.3333333333333335*
+
+
+***Exercise: Find the Largest Number***
+
 Task:Write a program to find the largest of three numbers.
 
-Expected Output:
+***Expected Output:
 Enter first number: 7
 Enter second number: 15
 Enter third number: 10

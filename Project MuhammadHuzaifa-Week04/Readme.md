@@ -97,8 +97,19 @@ Loading the dataset from the local machine
 The project includes the following visualizations:
 
   - Distribution of Total Amount
+
+    ![image](https://github.com/user-attachments/assets/5bfabe8f-869f-4789-a8c4-3161ab87e66a)
+
   - Correlation Heatmap
+  
+    ![image](https://github.com/user-attachments/assets/46a2dd27-6291-4589-bcc1-1d3d73f8d099)
+
+      
   - Scatter plot of Actual vs Predicted Total Amount
+
+    ![image](https://github.com/user-attachments/assets/f5ef0def-ddc0-49a3-a2b3-82e4ec2a6518)
+
+
 
 ## Conclusion
 This project demonstrates the use of linear regression for predicting retail sales, along with various data visualization and statistical techniques to analyze and understand the sales data.

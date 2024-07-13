@@ -103,7 +103,7 @@ This project demonstrates the use of linear regression for predicting retail sal
 - **GitHub Repository**: [Analyzing Sales Data for a Retail Store](https://github.com/WAJIHAALI1070/100DaysofBytewise/tree/main/Project%20WajihaAli-Week04)
 
 ## About the Author
-Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub](https://github.com/WAJIHAALI1070) for more projects and collaborations.
+Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub]() for more projects and collaborations.
 
 
 ## Call to Action

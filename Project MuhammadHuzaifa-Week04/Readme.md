@@ -97,5 +97,14 @@ The project includes the following visualizations:
 ## Conclusion
 This project demonstrates the use of linear regression for predicting retail sales, along with various data visualization and statistical techniques to analyze and understand the sales data.
 
-Author
-Muhammad Huzaifa
+## Additional Resources
+
+- **Medium Article**: [Analyzing Sales Data for a Retail Store - A Step-by-Step Guide](https://medium.com/@neurocybex/predicting-wine-quality-using-machine-learning-a-step-by-step-guide-aca994bbc128)
+- **GitHub Repository**: [Predicting Wine Quality Based on Chemical Properties](https://github.com/WAJIHAALI1070/100DaysofBytewise/tree/main/Project%20WajihaAli-Week04)
+
+## About the Author
+Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub](https://github.com/WAJIHAALI1070) for more projects and collaborations.
+
+
+## Call to Action
+Explore this project, try out the code, and delve deeper into machine learning for predictive analytics. Your feedback and comments are highly encouraged to foster learning and community engagement in data science.

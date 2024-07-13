@@ -2,6 +2,12 @@
 
 ## Overview
 This project involves analyzing sales data from a retail store. The main tasks include performing linear regression, data visualization, descriptive statistics, and probability distributions to understand and predict sales patterns.
+## About the Author
+Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub](https://github.com/MHUZAIFAM) for more projects and collaborations.
+## Additional Resources
+
+- **Medium Article**: [Analyzing Sales Data for a Retail Store - A Step-by-Step Guide](https://medium.com/@mhuzaifa287e/analyzing-sales-data-for-a-retail-store-a-step-by-step-guide-1edac1024cd5)
+- **GitHub Repository**: [Analyzing Sales Data for a Retail Store](https://github.com/MHUZAIFAM/100DaysOfBytewise/tree/main/Project%20MuhammadHuzaifa-Week04)
 
 ## Dataset
 - **Name**: Retail Sales Dataset
@@ -96,15 +102,6 @@ The project includes the following visualizations:
 
 ## Conclusion
 This project demonstrates the use of linear regression for predicting retail sales, along with various data visualization and statistical techniques to analyze and understand the sales data.
-
-## Additional Resources
-
-- **Medium Article**: [Analyzing Sales Data for a Retail Store - A Step-by-Step Guide](https://medium.com/@mhuzaifa287e/analyzing-sales-data-for-a-retail-store-a-step-by-step-guide-1edac1024cd5)
-- **GitHub Repository**: [Analyzing Sales Data for a Retail Store](https://github.com/MHUZAIFAM/100DaysOfBytewise/tree/main/Project%20MuhammadHuzaifa-Week04)
-
-## About the Author
-Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub](https://github.com/MHUZAIFAM) for more projects and collaborations.
-
 
 ## Call to Action
 Explore this project, try out the code, and delve deeper into machine learning for predictive analytics. Your feedback and comments are highly encouraged to foster learning and community engagement in data science.

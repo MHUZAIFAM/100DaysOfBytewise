@@ -99,8 +99,8 @@ This project demonstrates the use of linear regression for predicting retail sal
 
 ## Additional Resources
 
-- **Medium Article**: [Analyzing Sales Data for a Retail Store - A Step-by-Step Guide](https://medium.com/@neurocybex/predicting-wine-quality-using-machine-learning-a-step-by-step-guide-aca994bbc128)
-- **GitHub Repository**: [Predicting Wine Quality Based on Chemical Properties](https://github.com/WAJIHAALI1070/100DaysofBytewise/tree/main/Project%20WajihaAli-Week04)
+- **Medium Article**: [Analyzing Sales Data for a Retail Store - A Step-by-Step Guide](https://medium.com/@mhuzaifa287e/analyzing-sales-data-for-a-retail-store-a-step-by-step-guide-1edac1024cd5)
+- **GitHub Repository**: [Analyzing Sales Data for a Retail Store](https://github.com/WAJIHAALI1070/100DaysofBytewise/tree/main/Project%20WajihaAli-Week04)
 
 ## About the Author
 Muhammad Huzaifa is a passionate data enthusiast and electrical engineering student with a keen interest in machine learning and data science. Connect with him on [GitHub](https://github.com/WAJIHAALI1070) for more projects and collaborations.

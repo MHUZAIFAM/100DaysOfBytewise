@@ -1,4 +1,4 @@
-# 100 Days of Bytewise - Machine Learning Tasks
+# TASK 11: Machine Learning
 
 Welcome to the "Machine Learning" repository for the 100 Days of Bytewise challenge. This repository contains Python scripts to solve various machine learning tasks, including classification and prediction using different models.
 

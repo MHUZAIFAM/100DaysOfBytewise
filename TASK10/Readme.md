@@ -1,6 +1,7 @@
 # Task 10: Machine Learning Exercises
 
 This repository contains various machine learning exercises focused on data preprocessing techniques. Each exercise tackles a different aspect of data preprocessing, from handling missing data to feature selection and dealing with imbalanced datasets.
+**Read more about the Task:** https://medium.com/@mhuzaifa287e/mastering-essential-data-preprocessing-techniques-in-machine-learning-a-step-by-step-guide-a7de122969cb 
 
 ## Exercises
 

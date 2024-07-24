@@ -73,10 +73,27 @@ The ROC curve and AUC analysis for decision trees further illustrated the model'
 
 Comparing models with and without cross-validation highlighted the benefits of using cross-validation to achieve more reliable and unbiased performance metrics. Overall, this task reinforced the importance of thorough model evaluation and the careful balance between underfitting and overfitting in machine learning models.
 
+## Repository Structure
+The repository is organized as follows:
+
+- **Task14/**: This directory contains all scripts related to Task 14.
+  - `Titanic_Logistic_Regression_CrossValidation.py`: Script for logistic regression with cross-validation.
+  - `Decision_Trees_Overfitting_Underfitting.py`: Script for analyzing overfitting and underfitting in decision trees.
+  - `Logistic_Regression_Precision_Recall_F1.py`: Script for calculating precision, recall, and F1-score for logistic regression.
+  - `Decision_Trees_ROC_Curve.py`: Script for ROC curve analysis for decision trees.
+  - `Model_Performance_Comparison.py`: Script for comparing model performance with and without cross-validation.
+  - `readme.md`: This readme file.
+  
+- **datasets/**: This directory contains the dataset used in this task.
+  - `titanic.csv`: Titanic dataset file.
+
+## References
+- [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
+
+
+
 By completing these exercises, we gained practical experience in implementing, evaluating, and tuning machine learning models, preparing us for more advanced challenges in future tasks.
-
-
-
 ## References
 - [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)

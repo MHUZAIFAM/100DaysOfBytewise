@@ -63,3 +63,14 @@ The Titanic dataset is used for this task. You can download it from [Kaggle](htt
 - **Model Performance Comparison:** [Include results and analysis]
 
 ## Conclusion
+In Task 14, we explored various aspects of machine learning using the Titanic dataset, focusing on logistic regression and decision trees. The k-fold cross-validation for logistic regression provided a more robust evaluation compared to a single train-test split, highlighting the importance of cross-validation in preventing overfitting and ensuring model generalization.
+
+The analysis of decision trees with varying depths demonstrated the trade-offs between model complexity and performance. Shallow trees exhibited underfitting, while overly deep trees tended to overfit the training data, emphasizing the need for careful tuning of hyperparameters.
+
+Calculating precision, recall, and F1-score for logistic regression offered deeper insights into the model's performance, particularly in handling imbalanced data. These metrics provided a more comprehensive evaluation compared to accuracy alone.
+
+The ROC curve and AUC analysis for decision trees further illustrated the model's ability to distinguish between classes, with AUC serving as a valuable metric for overall performance.
+
+Comparing models with and without cross-validation highlighted the benefits of using cross-validation to achieve more reliable and unbiased performance metrics. Overall, this task reinforced the importance of thorough model evaluation and the careful balance between underfitting and overfitting in machine learning models.
+
+By completing these exercises, we gained practical experience in implementing, evaluating, and tuning machine learning models, preparing us for more advanced challenges in future tasks.

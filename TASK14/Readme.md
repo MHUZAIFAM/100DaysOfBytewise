@@ -74,3 +74,9 @@ The ROC curve and AUC analysis for decision trees further illustrated the model'
 Comparing models with and without cross-validation highlighted the benefits of using cross-validation to achieve more reliable and unbiased performance metrics. Overall, this task reinforced the importance of thorough model evaluation and the careful balance between underfitting and overfitting in machine learning models.
 
 By completing these exercises, we gained practical experience in implementing, evaluating, and tuning machine learning models, preparing us for more advanced challenges in future tasks.
+
+
+
+## References
+- [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)

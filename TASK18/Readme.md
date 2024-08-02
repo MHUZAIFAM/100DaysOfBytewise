@@ -48,9 +48,9 @@ The repository includes visualizations for:
 - Hierarchical Clustering Dendrogram
 - Comparison of K-Means and Hierarchical Clustering
 ### Files
-`customer_segmentation.py`: Python script for performing customer segmentation.
-`customer_segmentation.ipynb`: Jupyter notebook for performing customer segmentation.
-`Wholesale customers data.csv`: The Wholesale Customers dataset (you need to place this file in the repository).
+- `customer_segmentation.py`: Python script for performing customer segmentation.
+- `customer_segmentation.ipynb`: Jupyter notebook for performing customer segmentation.
+- `Wholesale customers data.csv`: The Wholesale Customers dataset (you need to place this file in the repository).
 ### Results
 The results of the clustering algorithms, along with the visualizations, are included in the repository. The comparisons between K-Means and hierarchical clustering are discussed in terms of cluster cohesion and separation.
 ### License

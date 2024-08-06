@@ -1,5 +1,4 @@
 # Project: Analyzing Sales Data for a Retail Store
-
 ## Overview
 This project involves analyzing sales data from a retail store. The main tasks include performing linear regression, data visualization, descriptive statistics, and probability distributions to understand and predict sales patterns.
 ## About the Author

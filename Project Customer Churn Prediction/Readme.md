@@ -67,3 +67,7 @@ Several visualizations are used to explore the data:
    ```bash
    pip install -r requirements.txt
    ```
+3. Run the Jupyter notebook or Python script.
+## Authors
+- **Muhammad Huzaifa** - mhuzaifa287e@gmail.com
+- **Wajiha Ali** - wajihaali1070@gmail.com
